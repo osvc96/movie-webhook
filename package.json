@@ -1,0 +1,20 @@
+{
+  "name": "moviewebhook",
+  "version": "1.0.0",
+  "description": "test webhook for dialogflow app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "moviewebhook"
+  },
+  "keywords": [
+    "webhook",
+    "dialogflow",
+    "test"
+  ],
+  "author": "Oscar Vega",
+  "license": "ISC"
+}
