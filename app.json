@@ -1,6 +1,7 @@
 {
     "name": "movie_webhook_test",
     "description": "A very simple webhook that gets you the details of a specified movie.",
+    "repository": "https://github.com/osvc96/movie-webhook.git",
     "keywords": [
         "movies",
         "api.ai",
